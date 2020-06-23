@@ -1,2 +1,3 @@
-
-	Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla vestibulum turpis mollis tortor ultricies gravida. Phasellus ullamcorper ex enim, in ornare massa varius eu. Cras vulputate varius posuere. Vestibulum nec libero nunc. Aenean sollicitudin dolor eget nisl elementum placerat. Vivamus aliquet dignissim massa sit amet volutpat. Sed sollicitudin congue elit, vel porttitor turpis tristique nec.
+<h1 class="main"><img src="images/Logo.png"></h1>
+	<div class="container-fluid" id="zdj">
+</div>

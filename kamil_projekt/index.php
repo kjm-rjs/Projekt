@@ -1,5 +1,5 @@
 <?php
 
-  include('templates/layout.php');
+    include('templates/layout.php');
 
 ?>
